@@ -1,0 +1,15 @@
+
+    body {
+        margin: 0px;
+        padding: 0px;
+        font-size: 15px;  
+        background-color:powderblue;
+        overflow-y: hidden;
+    }
+    image{
+        width: 100px;
+        height: 100px;
+        margin-top: 2px;
+        margin-left: 10px;
+        border-radius: 15%;
+    }
